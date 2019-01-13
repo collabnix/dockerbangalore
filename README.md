@@ -25,6 +25,10 @@ If you want to contribute a lab, check out this [GitHub repo](https://github.com
 
 ### [Play with Kubernetes](https://labs.play-with-k8s.com)
 
+Play with Kubernetes is a labs site provided by Docker and created by Tutorius. Play with Kubernetes is a playground which allows users to run K8s clusters in a matter of seconds. It gives the experience of having a free Alpine Linux Virtual Machine in browser. Under the hood Docker-in-Docker (DinD) is used to give the effect of multiple VMs/PCs.
+
+If you want to learn more about Kubernetes, consider the Play with Kubernetes Classroom which provides more directed learning using an integrated Play with Kubernetes commandline.
+
 #### [Docker Blog](https://blog.docker.com/)
 The Docker Blog is a great resource to find content! We post the latest Docker news including new releases and events like DockerCon there.
 
