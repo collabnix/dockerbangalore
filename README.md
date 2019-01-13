@@ -29,6 +29,45 @@ Play with Kubernetes is a labs site provided by Docker and created by Tutorius. 
 
 If you want to learn more about Kubernetes, consider the Play with Kubernetes Classroom which provides more directed learning using an integrated Play with Kubernetes commandline.
 
+### [ Welcome to DockerLabs](https://github.com/collabnix/dockerlabs)
+
+![My image](https://github.com/collabnix/dockerlabs/blob/master/images/dockerlabs.jpeg)
+
+Are you new to Docker? Want to build your career in Container Technology?
+
+Then Welcome ! You are at the right place.
+
+DockerLabs brings you tutorials that help you get hands-on experience using Docker & Kubernetes. Here you will find complete documentation of labs and tutorials that will help you, no matter if you are a beginner, SysAdmin, IT Pro or Developer. Yes, you read it right ! Its $0 learning platform. You don't need any infrastructure. Most of the tutorials runs on [Play with Docker Platform](https://labs.play-with-docker.com/) & [Play with Kubernetes Platform](https://play-with-k8s.com). This is a free browser based learning platform for you. Docker tools like Docker Engine, Docker Compose & Docker Machine are already installed. Hence, we have everything ready for you to get started with.
+
+## Getting Started in 3 Simple Steps
+
+- Join 200+ DockerLabs Contributors in 2 mins via [DockerLabs Slack Channel](https://join.slack.com/t/collabnix/shared_invite/enQtNDkwMjY0OTE2NzA1LTYwMmE4MzU0YjQzYTU1NzUzZWRlNTI4MGFkMGRiMmZiM2YwNTc0MTNlOGIzZDc2NGNkOGUwNzdiN2JjZjI3MjE)
+
+- Fork, Contribute & Share via [DockerLabs GITHUB Repository](https://github.com/collabnix/dockerlabs)
+
+-  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
+
+
+
+# Categories
+
+DockerLabs is a tutorials authored by members of the open community.
+Below are the list of categories:
+
+## Docker
+
+- [Docker for Beginners](https://github.com/collabnix/dockerlabs/tree/master/beginners/README.md)
+
+- [Docker for Intermediate](https://github.com/collabnix/dockerlabs/tree/master/intermediate/README.md)
+
+- [Docker for Advanced](https://github.com/collabnix/dockerlabs/tree/master/advanced/README.md)
+
+- [Docker for CIOs/CEOs](https://github.com/collabnix/dockerlabs/tree/master/docker/leadership/README.md)
+
+- [Docker Cheatsheet](https://github.com/collabnix/dockerlabs/tree/master/docker/cheatsheet/README.md)
+
+- [Docker Interview Questions]()
+
 #### [Docker Blog](https://blog.docker.com/)
 The Docker Blog is a great resource to find content! We post the latest Docker news including new releases and events like DockerCon there.
 
