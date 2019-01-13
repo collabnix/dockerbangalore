@@ -1,10 +1,19 @@
-# Docker Community
+# Docker Bangalore Meetup Community Page
 
-Welcome to the Docker Community repo! This repo aims to centralize content (HOW-TOs, scripts, slides, etc) curated by the Docker Team for the Docker Community. The main objective is to help members of the Docker community who share similar interests to learn from & collaborate with each other during events. 
+Welcome to the Docker Bangalore Meetup Community repo! This repo aims to centralize content (HOW-TOs, scripts, slides, etc) curated by the Docker Team for the Docker Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
 # Resources
 
 #### [Docker Bangalore Meetup](https://www.meetup.com/Docker-Bangalore/)
+
+With around 7350+ community member, Docker Bangalore Meetup group is one of the largest Docker meetup group in India.
+
+With a motto of "Learn, Collaborate & Dockerize!" you get chance to meet other developers and ops engineers in your community that are using and learning about Docker. Docker is an open platform that helps you build, ship and run applications anytime and anywhere. Developers use Docker to modify code and to streamline application development, while operations gain support to quickly and flexibly respond to their changing needs. Docker ensures agility, portability and control for all your distributed apps.
+
+If you are interested to join upcoming Meetup, PLEASE RSVP USING THIS LINK
+https://events.docker.com/events/details/docker-bangalore-presents-joint-meetup-with-kubernetes-openshift-cloudnativecon-meetup-group-of-bangalore/
+
+Visit [Docker Bangalore official Community Page](https://events.docker.com/bangalore/) for registering to the Community Page
 
 #### [Play with Docker Classroom](http://training.play-with-docker.com/)
 
