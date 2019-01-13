@@ -28,7 +28,7 @@ If you want to contribute a lab, check out this [GitHub repo](https://github.com
 #### [Docker Blog](https://blog.docker.com/)
 The Docker Blog is a great resource to find content! We post the latest Docker news including new releases and events like DockerCon there.
 
-For our curated collection of content from the community, check out this page: [https://blog.docker.com/curated](https://blog.docker.com/curated)
+For our curated collection of content from the community, check out this page: [https://blog.docker.com/curated](https://blog.docker.com/curated) 
 
 #### [Docker Forum](https://forums.docker.com/)
 
