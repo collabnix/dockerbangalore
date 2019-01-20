@@ -10,7 +10,7 @@
 | Manage Complex Kubernetes application using Helm - Abhishek Kumar, Kedarnath Reddy- Walmart labs | [Slides]() | [ - ]() |
 | SIG-Docs Updates - Rajakavitha Kodhandapani | [Slides](https://www.slideshare.net/RajakavithaKodhandap/kubecon-2018seattle) | [ - ]() |
 | KubeCon from an SRE perspective - Aditya Konarde | [Slides]() | [ - ]() |
-| Application Deployment - M Krishna Kumar | [Slides]() | [ - ]() |
+| Application Deployment - M Krishna Kumar | [Slides](https://www.slideshare.net/mKrishnaKumar1/kubecon-seattle-2018-recap-application-deployment-aspects) | [ - ]() |
 
 ## Images
 
