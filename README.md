@@ -107,5 +107,5 @@ Follow us on [Twitter](https://twitter.com/bangaloredocker)
 #### Curated tutorial content
 A curated list of tutorials and resources produced by the community [tutorials](./curated-content.md)
 
-## Submit Your Ideas
+#### Submit Your Ideas
 Now you can submit ideas for Meetup. To submit, Click [here](https://github.com/collabnix/dockerbangalore/tree/master/ideas)
