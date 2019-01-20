@@ -1,6 +1,6 @@
 # Docker Bangalore Joint Meetup with Kubecon & OpenShift + CloudNativeCon
 
-## Presentations
+## Slides
 
 
 | Topic        | Presentation          | Video  |
