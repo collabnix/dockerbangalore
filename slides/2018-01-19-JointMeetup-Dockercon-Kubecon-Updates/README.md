@@ -15,3 +15,8 @@
 ## Images
 
 ![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936479.jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936488.jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936494.jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936495.jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936498.jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936496.jpeg)
