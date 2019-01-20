@@ -8,7 +8,7 @@
 | Dockercon 2018 EU Updates by Ajeet Singh Raina| [Slides](https://www.slideshare.net/ajeetraina/dockercon-2018-eu-updates) | [ - ]() |
 | Kubernetes Security Updates from Kubecon 2018 Seattle | [Slides](https://www.slideshare.net/surajssd009005/kubernetes-security-updates-from-kubecon-2018-seattle) | [- ]() |
 | Manage Complex Kubernetes application using Helm - Abhishek Kumar, Kedarnath Reddy- Walmart labs | [Slides]() | [ - ]() |
-| SIG-Docs Update | [Slides]() | [ - ]() |
+| SIG-Docs Updates - Rajakavitha Kodhandapani | [Slides](https://www.slideshare.net/RajakavithaKodhandap/kubecon-2018seattle) | [ - ]() |
 | KubeCon from an SRE perspective - Aditya Konarde | [Slides]() | [ - ]() |
 | Application Deployment - M Krishna Kumar | [Slides]() | [ - ]() |
 
