@@ -11,3 +11,7 @@
 | SIG-Docs Update | [Slides]() | [ - ]() |
 | KubeCon from an SRE perspective - Aditya Konarde | [Slides]() | [ - ]() |
 | Application Deployment - M Krishna Kumar | [Slides]() | [ - ]() |
+
+## Images
+
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936479.jpeg)
