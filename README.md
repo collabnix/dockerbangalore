@@ -8,10 +8,11 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup
 
-[Docker 6th Birthday](https://www.meetup.com/Docker-Bangalore/events/258644665)
+[Docker Meetup at Microsoft - Yet to be Announced]()
 
 # Recent Events
 
+[Docker 6th Birthday Celeberation Event](https://github.com/collabnix/dockerbangalore/tree/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell)
 [19-January-2019 - Joint Meetup with Kubernetes & OpenShift + CloudNativeCon](https://github.com/collabnix/dockerbangalore/tree/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/README.md)
 
 
