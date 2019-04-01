@@ -1,4 +1,4 @@
-# Docker Birthday #6 Celebration - Shown-And-Tell
+# Docker Birthday #6 Celebration - Show-And-Tell
 
 ## Venue: DellEMC
 
