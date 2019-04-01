@@ -10,7 +10,7 @@
 | GigaHex - Sandbox Environment for Big Data Application by [Shad Amez, Expedia](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiV6rr9q67hAhWUyIsBHW4KC1UQFjAAegQIABAB&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fshadamez&usg=AOvVaw267Pga2VsphnDQhkb9WRO-)| [Slides](https://slides.com/shadamez/gigahex-alpha/fullscreen#/) | [ - ]() |
 | Box-Exec  - by [Akshit Grover, VIT](https://in.linkedin.com/in/akshit-grover) | [Slides](http://slides.com/akshitgrover/box-exec/fullscreen) | [- ]() |
 | Device Simulation at Scale using Docker Swarm by [Hemanth Gaikwad, DellEMC](https://in.linkedin.com/in/hemant-gaikwad-21b9834)| [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/Z10N_Device_simulation_at_scale_using_Docker_Swarm.pptx) | [ - ]() |
-| Distributed WorkLoad Testing Using Docker Containers by Visnu Murty, DellEMC | [Slides](https://www.slideshare.net/RajakavithaKodhandap/kubecon-2018seattle) | [ - ]() |
+| Distributed WorkLoad Testing Using Docker Containers by [Visnu Murty, DellEMC](https://www.linkedin.com/in/vishnu-murty) | [Slides](https://www.slideshare.net/RajakavithaKodhandap/kubecon-2018seattle) | [ - ]() |
 | Flipper - Tiny Cloud on Browser using Docker by Shivam Yaduka, VIT | [Slides](http://slides.com/shivam-yaduka/organize-your-decks/fullscreen/#/) | [ - ]() |
 | Comparative Study of Hadoop over Virtual Machine Vs Docker Containers by Shivankit Bagla  | [Slides](https://www.slideshare.net/mKrishnaKumar1/kubecon-seattle-2018-recap-application-deployment-aspects) | [ - ]() |
 
