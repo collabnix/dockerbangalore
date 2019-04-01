@@ -9,7 +9,7 @@
 | ------------- |:-------------:| -----:|
 | GigaHex - Sandbox Environment for Big Data Application by Shad Amez| [Slides](https://slides.com/shadamez/gigahex-alpha/fullscreen#/) | [ - ]() |
 | Box-Exec  - by Akshit Grover  | [Slides](http://slides.com/akshitgrover/box-exec/fullscreen) | [- ]() |
-| Device Simulation at Scale using Docker Swarm| [Slides]() | [ - ]() |
+| Device Simulation at Scale using Docker Swarm| [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/Z10N_Device_simulation_at_scale_using_Docker_Swarm.pptx) | [ - ]() |
 | Distributed WorkLoad Testing Using Docker Containers | [Slides](https://www.slideshare.net/RajakavithaKodhandap/kubecon-2018seattle) | [ - ]() |
 | Flipper - Tiny Cloud on Browser using Docker | [Slides](http://slides.com/shivam-yaduka/organize-your-decks/fullscreen/#/) | [ - ]() |
 | Comparative Study of Hadoop over Virtual Machine Vs Docker Containers | [Slides](https://www.slideshare.net/mKrishnaKumar1/kubecon-seattle-2018-recap-application-deployment-aspects) | [ - ]() |
