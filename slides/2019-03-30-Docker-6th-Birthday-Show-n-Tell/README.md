@@ -24,4 +24,5 @@
 ![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/image_8.jpg)
 ![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/image_9.jpg)
 ![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/image_10.jpg)
-
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/image_11.jpg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/image_12.jpg)
