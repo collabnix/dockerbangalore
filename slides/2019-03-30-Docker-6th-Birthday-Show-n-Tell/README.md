@@ -12,7 +12,7 @@
 | Device Simulation at Scale using Docker Swarm by [Hemanth Gaikwad, DellEMC](https://in.linkedin.com/in/hemant-gaikwad-21b9834)| [-](-) | [ - ]() |
 | Distributed WorkLoad Testing Using Docker Containers by [Visnu Murty, DellEMC](https://www.linkedin.com/in/vishnu-murty) | [-](-) | [ - ]() |
 | Flipper - Tiny Cloud on Browser using Docker by [Shivam Yaduka, VIT](https://in.linkedin.com/in/shivam-yaduka) | [Slides](http://slides.com/shivam-yaduka/organize-your-decks/fullscreen/#/) | [ - ]() |
-| Comparative Study of Hadoop over Virtual Machine Vs Docker Containers by [Shivankit Bagla](https://in.linkedin.com/in/shivankitbagla)  | [Slides](https://www.slideshare.net/mKrishnaKumar1/kubecon-seattle-2018-recap-application-deployment-aspects) | [ - ]() |
+| Comparative Study of Hadoop over Virtual Machine Vs Docker Containers by [Shivankit Bagla](https://in.linkedin.com/in/shivankitbagla)  | [Slides](http://slides.com/shivankit_bagla/deck) | [ - ]() |
 
 ## Images
 
