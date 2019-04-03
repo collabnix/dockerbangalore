@@ -18,6 +18,7 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
 
 # Docker Birthday Celebration - Blogs
 
+[Docker 6th Birthday Celebration](http://collabnix.com/docker-birthday-6-thank-you-docker-bangalore-community//)<br>
 [Docker 5th Birthday Celebration](http://collabnix.com/dockers-birthday-celebration-in-bangalore-the-fifth-kind/)<br>
 [Docker 4th Birthday Celebration](https://neependra.net/?p=2209)<br>
 [Docker 3rd Birthday Celebration](https://neependra.net/?p=1746)<br>
