@@ -8,7 +8,7 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
-[Docker Meetup at Microsoft - April 25]()
+[Docker Meetup at Microsoft - April 25]()<br>
 [Dockercon 19 San Francisco - April 29 - May 3rd ()
 
 # Recent Events
