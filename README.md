@@ -8,11 +8,11 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
-[Docker Joint Meetup with OpenFaas @Microsoft Developer Group - April 25](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-04-25-Joint-Meetup-OpenFaas-Microsoft-Developer-Group/README.md)<br>
-[Dockercon 19 San Francisco - April 29 to May 3rd](https://www.docker.com/dockercon/)<br>
+[1st-June - Dockercon 19 Recap & Announcements](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-06-01-Meetup-Dockercon19-Recap/README.md)
 
 # Recent Events
 
+[Docker Joint Meetup with OpenFaas @Microsoft Developer Group - April 25](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-04-25-Joint-Meetup-OpenFaas-Microsoft-Developer-Group/README.md)<br>
 [30-March-2019 - Docker 6th Birthday Celeberation Event](https://github.com/collabnix/dockerbangalore/tree/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/README.md)<br>
 [19-January-2019 - Joint Meetup with Kubernetes & OpenShift + CloudNativeCon](https://github.com/collabnix/dockerbangalore/tree/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/README.md)
 
