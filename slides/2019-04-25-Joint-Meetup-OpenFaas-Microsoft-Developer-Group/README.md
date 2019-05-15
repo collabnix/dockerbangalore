@@ -15,4 +15,4 @@
 
 ## Images
 
-![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936479.jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-04-25-Joint-Meetup-OpenFaas-Microsoft-Developer-Group/dockerbangalore_openfaas.jpg)
