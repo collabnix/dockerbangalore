@@ -8,7 +8,7 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
-[1st-June - Dockercon 19 Recap & Announcements](https://github.com/collabnix/dockerbangalore/blob/master/slides/01st-June-2019-Dockercon19-Recap/README.md)
+[15th-June - Dockercon 19 Recap & Announcements](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/README.md)
 
 # Recent Events
 
