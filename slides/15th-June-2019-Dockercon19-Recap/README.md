@@ -1,6 +1,6 @@
 # Dockercon Recap & Announcements
 
-## Venue: TBD
+## Venue: VISA
 
 ## Slides
 
