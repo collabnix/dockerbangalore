@@ -1,6 +1,6 @@
 # Dockercon Recap & Announcements
 
-## Venue: VISA
+## Venue: VISA Consolidated Support Services
 
 ## Slides
 
