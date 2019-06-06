@@ -8,9 +8,9 @@
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | Dockercon 19 Recap & Announcements by Ajeet Singh Raina| [Slides](-) | [ - ]() |
-| What's New in Docker 19.03.0 Pre-Release| [Slides](-)| [ - ]()| 
-| -|[Slides](-)| [ - ]() | 
-
+| Hardening and Securing your Kubernetes Platform by Munish Kumar Gupta| [Slides](-)| [ - ]()| 
+| Next Gen Payments Platform For Evolving Digital Economy by Manoja Kumar Mishra| [Slides](-)| [ - ]()| 
+| Sentiment Analysis using Stanford NLP , Docker , Helidon Microservice - Saiyam Pathak| [Slides](-)| [ - ]()| 
 
 
 ## Images
