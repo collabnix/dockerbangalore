@@ -16,5 +16,9 @@
 
 ## Images
 
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/ajeet_01.jpeg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/sangam.jpeg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/saiyam_01.jpeg)
 
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/prabhu.jpeg)
 
