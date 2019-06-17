@@ -22,3 +22,4 @@
 
 ![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/prabhu.jpeg)
 ![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/techstack.jpeg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/munish.jpeg)
