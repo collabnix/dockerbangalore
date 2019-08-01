@@ -13,6 +13,6 @@ Bangalore, 560076
 | Datacenter Management, Log Analytics & Machine  Learning using Docker & Redfish API - Ajeet Singh Raina(DellEMC)| [Slides]() | [ - ]() |
 |  Introducing JIB & Google Cloud Run For Serverless  - Saiyam Pathak(WalmartLabs)| [Slides](-)| [ - ]()| 
 |  Implementing Lightweight Kubernetes(K3s) on Raspberry Pi Stack - Sangam Biradar| [Slides](-)| [ - ]()| 
-| Canary deployment with Istio and Kubernetes - Mamta Jha ( DigitalOcean)| [Slides](-)| [ - ]()| 
+| Canary deployment with Istio and Kubernetes - Mamta Jha ( DigitalOcean)| [Slides](https://github.com/collabnix/dockerbangalore/blob/master/Canary%20Deployment.pptx.pdf)| [ - ]()| 
 | Key Architectural Consideration for Designing Kubernetes cluster for Larger Scale by Ravishankar Suribabu - WalmartLabs|[Slides]()| [ - ]()|
 |  Deploy Machine Learning Models on Docker Containers - Satya Narayan, WalmartLabs| [Slides](-)| [ - ]()| 
