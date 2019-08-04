@@ -20,14 +20,16 @@ Bangalore, 560076
 # Moments
 
 ![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.02.50%20(1).jpeg)
+![My Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.13.01.jpeg)
+![My Image]()
 
 ![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.02.50%20(2).jpeg)
 ![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.03.26.jpeg)
 ![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.03.24.jpeg)
 ![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.03.00.jpeg)
 ![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.02.55%20(3).jpeg)
-![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.03.00.jpeg)
-![MyImage]()
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.02.55%20(2).jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.02.53%20(1).jpeg)
 ![MyImage]()
 ![MyImage]()
 ![MyImage]()
