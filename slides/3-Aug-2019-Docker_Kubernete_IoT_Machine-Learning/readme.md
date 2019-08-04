@@ -15,4 +15,4 @@ Bangalore, 560076
 |  Implementing Lightweight Kubernetes(K3s) on Raspberry Pi Stack - Sangam Biradar| [Slides](-)| [ - ]()| 
 | Canary deployment with Istio and Kubernetes - Mamta Jha ( DigitalOcean)| [Slides](https://github.com/collabnix/dockerbangalore/blob/master/Canary%20Deployment.pptx.pdf)| [ - ]()| 
 | Key Architectural Consideration for Designing Kubernetes cluster for Larger Scale by Ravishankar Suribabu - WalmartLabs|[Slides]()| [ - ]()|
-|  Deploy Machine Learning Models on Docker Containers - Satya Narayan, WalmartLabs| [Slides](-)| [ - ]()| 
+|  Deploy Machine Learning Models on Docker Containers - Satya Narayan, WalmartLabs| [Slides](https://github.com/SatyaNarayan1/dockerbangalore/blob/master/Productionizing_ML_Model_at_scale_with_docker_k8s.pptx)| [ - ]()| 
