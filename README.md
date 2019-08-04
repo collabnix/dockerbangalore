@@ -8,16 +8,16 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
-[September 2019 - Docker & Kubernetes - Amazon India]()
+[September 2019 - #46 Docker & Kubernetes - Amazon India]()
 
 # Recent Events
 
 
-[03rd August 2019 - Docker, Kubernetes & IoT - WalmartLabs](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/readme.md)
-[15th-June-2019 - Dockercon 19 Recap & Announcements](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/README.md)<br>
-[25-April-2019 - Docker Joint Meetup with OpenFaas @Microsoft Developer Group](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-04-25-Joint-Meetup-OpenFaas-Microsoft-Developer-Group/README.md)<br>
-[30-March-2019 - Docker 6th Birthday Celeberation Event](https://github.com/collabnix/dockerbangalore/tree/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/README.md)<br>
-[19-January-2019 - Joint Meetup with Kubernetes & OpenShift + CloudNativeCon](https://github.com/collabnix/dockerbangalore/tree/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/README.md)
+[03rd August 2019 - #45 Docker, Kubernetes & IoT - WalmartLabs](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/readme.md)
+[15th-June-2019 - #44 Dockercon 19 Recap & Announcements](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/README.md)<br>
+[25-April-2019 - #43 Docker Joint Meetup with OpenFaas @Microsoft Developer Group](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-04-25-Joint-Meetup-OpenFaas-Microsoft-Developer-Group/README.md)<br>
+[30-March-2019 - #42 Docker 6th Birthday Celeberation Event](https://github.com/collabnix/dockerbangalore/tree/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/README.md)<br>
+[19-January-2019 - #41 Joint Meetup with Kubernetes & OpenShift + CloudNativeCon](https://github.com/collabnix/dockerbangalore/tree/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/README.md)
 
 
 # Docker Birthday Celebration - Blogs
