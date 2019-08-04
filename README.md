@@ -8,7 +8,7 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
-[03rd August 2019 - Docker, Kubernetes & IoT - WalmartLabs](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-meetup-45-docker-kubernetes-iot/#/)
+[03rd August 2019 - Docker, Kubernetes & IoT - WalmartLabs](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/readme.md)
 
 # Recent Events
 
