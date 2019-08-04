@@ -16,3 +16,18 @@ Bangalore, 560076
 | Canary deployment with Istio and Kubernetes - Mamta Jha ( DigitalOcean)| [Slides](https://github.com/collabnix/dockerbangalore/blob/master/Canary%20Deployment.pptx.pdf)| [ - ]()| 
 | Key Architectural Consideration for Designing Kubernetes cluster for Larger Scale by Ravishankar Suribabu - WalmartLabs|[Slides]()| [ - ]()|
 |  Deploy Machine Learning Models on Docker Containers - Satya Narayan, WalmartLabs| [Slides](-)| [ - ]()| 
+
+# Moments
+
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.02.50%20(1).jpeg)
+
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.02.50%20(2).jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.03.26.jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.03.24.jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.03.00.jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.02.55%20(3).jpeg)
+![MyImage](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/images/WhatsApp%20Image%202019-08-04%20at%2008.03.00.jpeg)
+![MyImage]()
+![MyImage]()
+![MyImage]()
+![MyImage]()
