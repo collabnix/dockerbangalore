@@ -12,7 +12,7 @@ Bangalore, 560076
 | ------------- |:-------------:| -----:|
 | Datacenter Management, Log Analytics & Machine  Learning using Docker & Redfish API - Ajeet Singh Raina(DellEMC)| [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/OpenUSM_Docker_Bangalore_Meetup_Aug3rd.pdf) | [ - ]() |
 |  Introducing JIB & Google Cloud Run For Serverless  - Saiyam Pathak(WalmartLabs)| [Slides](https://www.slideshare.net/saiyampathak1/introduction-to-jib-and-google-cloud-run)| [ - ]()| 
-|  Implementing Lightweight Kubernetes(K3s) on Raspberry Pi Stack - Sangam Biradar| [Slides](-)| [ - ]()| 
+|  Implementing Lightweight Kubernetes(K3s) on Raspberry Pi Stack - Sangam Biradar| [Slides](https://www.slideshare.net/sangambiradar370/implementing-lightweight-kubernetesk3s-on-raspberry-pi-stack-sangam-biradar)| [ - ]()| 
 | Canary deployment with Istio and Kubernetes - Mamta Jha ( DigitalOcean)| [Slides](https://github.com/collabnix/dockerbangalore/blob/master/Canary%20Deployment.pptx.pdf)| [ - ]()| 
 | Key Architectural Consideration for Designing Kubernetes cluster for Larger Scale by Ravishankar Suribabu - WalmartLabs|[Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/3rdAug_Kubernetes_LargeScale_System_Design.pdf)| [ - ]()|
 |  Productionizing Machine Learning Models at scale with Docker & K8s - Satya Narayan, WalmartLabs| [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/Productionizing_ML_Model_at_scale_with_docker_k8s.pptx)| [ - ]()| 
