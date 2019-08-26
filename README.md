@@ -8,6 +8,7 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
+[7-Septemeber-2019 - #47 Docker Bangalore Joint Meetup with Cloud Native Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-cloud-native-group-of-bangalore/#/)<br>
 [21-September 2019 - #46 Docker, K8s, ML + Docker101 Workshop - Amazon](https://events.docker.com/events/details/docker-bangalore-presents-docker-k8s-iot-mldl-docker101-hands-on-workshop-for-beginners/#/)
 
 # Recent Events
