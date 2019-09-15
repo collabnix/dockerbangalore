@@ -1,0 +1,85 @@
+08:02:58	 From Jayachandra : Shall we have the recordings of this session?
+08:03:01	 From ANKUR DHAKAR : hello everyone
+08:06:23	 From Jayachandra : Hope you people have started recording.
+08:06:33	 From Gurudatta Ramanatha : Yes.
+08:06:37	 From Vinay_Aggarwal2 : is any one speaking
+08:06:48	 From Jenny Burcio to Jayachandra (Privately) : Yes, Bala is speaking
+08:06:51	 From ANKUR DHAKAR : yes!
+08:06:53	 From Jenny Burcio to Jayachandra (Privately) : and yes, we have started recording
+08:07:03	 From Ajeet Raina : Please mute yourself
+08:07:16	 From Vinay_Aggarwal2 : not able to hear
+08:07:32	 From Ajeet Raina : Check your mic 
+08:07:34	 From ANKUR DHAKAR : try to connect using other methods
+08:08:12	 From Nitish : I'm unable to hear anything
+08:08:20	 From Vinay_Aggarwal2 : same here
+08:08:24	 From Apurva : couldn't here
+08:08:47	 From Ameya Agashe : Audience, please volume up your laptop. I can hear very loud and clear.
+08:08:48	 From Nitish : Now it's working. Enable audio by clicking JOIN AUDIO
+08:08:53	 From Kathar Mydheen : i am able to hear..works fine
+08:08:56	 From Naveenkumar S : hi all 
+08:09:06	 From Ajeet Raina : Apurva...Check if you have enabled the right speaker source. If you have connected ear phone, you need to select the right mode
+08:09:56	 From Apurva : I am on my mobile.. i think issue with mobile
+08:10:00	 From Mahesh Earanti : what is the main difference between CMD and ENTRYPOINT ?
+08:10:05	 From Apurva : I will check with laptop
+08:12:03	 From Naveenkumar S : multiple service u can run in ENTRYPOINT
+08:12:23	 From Ajeet Raina : Mahesh ..do check out http://dockerlabs.collabnix.com/beginners/dockerfile/entrypoint-vs-run.html
+08:13:52	 From Mahesh Earanti : thanks :)
+08:14:21	 From reddy : does session started?
+08:14:27	 From biradar sangam : yes
+08:14:35	 From reddy : iam not hearing any voice plz help me
+08:14:49	 From biradar sangam : sure
+08:15:33	 From Tathagata Sarkar : reddy:Select built in speaker
+08:16:04	 From saiyam pathak : Yes reddy session is going on
+08:17:09	 From Meher Chaitanya : what is NIC
+08:17:21	 From ANKUR DHAKAR : network interface card
+08:17:28	 From Naveenkumar S : Network interface card 
+08:17:28	 From biradar sangam : network interface card
+08:17:32	 From Vinay_Aggarwal2 : Network interface Card ,ur card on CPu
+08:17:53	 From Vinay_Aggarwal2 : there is ECHo
+08:21:18	 From Atreya : I am not able to hear Audio now
+08:23:31	 From Ameya Agashe : Can everyone please MUTE
+08:24:50	 From Shad A : Screen has lot of pen marks. Is it possible to erase that ?
+08:31:49	 From Ajeet Raina : It is erased now
+08:31:57	 From Ajeet Raina : Do post your queries here
+08:32:41	 From Ajeet Raina : Please mute yourself and turn video off
+08:32:55	 From Ajeet Raina : Amit..Can you turn off your video
+08:33:52	 From Ajeet Raina : Request everyone to turn OFF your video
+08:35:53	 From Arijeet  : thanks ajeet sir
+08:38:09	 From Naveenkumar S : please clear screen
+08:38:19	 From Naveenkumar S : ok thanks
+08:38:56	 From Upender : On what priority the election will happen ?
+08:40:00	 From akshitgrover : I think it’s a random election among the managers
+08:40:11	 From akshitgrover : As logs are replicated on every manager
+08:40:15	 From akshitgrover : I can be wrong!
+08:40:43	 From Ajeet Raina : http://collabnix.com/understanding-node-failure-handling-under-docker-1-12-swarm-mode/
+08:41:16	 From Ajeet Raina : Upendra..You can refer this to understand how actually Node Failure is handled
+08:41:41	 From Upender : Sure. Thanks !!!
+08:42:35	 From akshitgrover : Under the hood you’ll have too look how raft algorithm conducts election
+08:43:03	 From akshitgrover : Basically looking for election algorithm used by raft consensus
+08:47:09	 From Jatin Chugh : would it be possible to share the recording of this session?
+08:47:33	 From Varun : or presentation atleast?
+08:51:06	 From Naveenkumar S : can i know how many k8s nodes supported 
+08:53:06	 From Ajeet Raina : The session is being recorded and will be shared soon after the webinar
+08:53:29	 From Ajeet Raina : Naveen.. Can you elaborate your query
+08:53:34	 From biradar sangam : k8s supports clusters with up to 5000 nodes
+08:53:48	 From biradar sangam : naveen
+08:54:01	 From Naveenkumar S : what about pods,containers
+08:54:21	 From Naveenkumar S : can be supported in k8s
+08:54:38	 From saiyam pathak : 110 pods per node
+08:54:58	 From biradar sangam : https://kubernetes.io/docs/setup/best-practices/cluster-large/
+08:55:03	 From biradar sangam : Refer this
+08:55:46	 From Naveenkumar S : Thanks man
+09:00:52	 From Vinay_Aggarwal2 : On time 
+09:00:58	 From Nitish : Thank you so much. Amazing session!
+09:01:00	 From Apurva : can you give examples of allow and deny traffic
+09:01:14	 From saiyam pathak : Good Job Bala
+09:01:17	 From biradar sangam : amazing bala
+09:01:20	 From Ramakrishna rao Gudla : good job
+09:01:27	 From Vinay_Aggarwal2 : good job Bala and team 
+09:01:27	 From VamsiRam : Thanks a lot Bala & Ajeet Raina
+09:01:28	 From Tathagata Sarkar : Good job Bala ...
+09:01:36	 From Arijeet  : thanks bala
+09:01:42	 From Mahesh Earanti : Thanks a lot for the informative session
+09:01:43	 From Naveenkumar S : Thanks for doing gud job 
+09:01:43	 From Nitish : I'll be waiting for the next webinar. 
+09:01:46	 From Suman : Thanks
