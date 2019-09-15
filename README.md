@@ -12,7 +12,7 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
 
 # Online Webinars
 
-[14-September-2019 - #47 Collabnix Online Webinar: Demystifying Container Networking](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/)<br>
+[14-September-2019](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/) - [#47 Collabnix Online Webinar: Demystifying Container Networking](https://github.com/collabnix/dockerbangalore/blob/master/slides/14th-Sep-2019-Collabnix-Online-Webinar-Demystifying-Container-Networking/README.md)
 
 # Recent Events
 
