@@ -3,7 +3,7 @@
 
 ## Venue: Online Webinar
 
-## Speaker: Balasundaram Nataraj
+## Speaker: [Balasundaram Nataraj](https://www.linkedin.com/in/balasundaram-natarajan-43471115/)
 
 ## Slides
 
