@@ -15,7 +15,14 @@
 | TensorFlow, Docker & GoLang - All for Image Rekognition Sangam Biradar(EngineITops)| [Slides]() |  | 
 
 
+## Images
 
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image1.jpeg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image2.jpeg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image3.jpeg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image4.jpeg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image5.jpeg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image6.jpeg)
 
 
 
