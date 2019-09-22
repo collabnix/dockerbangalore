@@ -17,12 +17,21 @@
 
 ## Images
 
-![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image1.jpeg)
-![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image2.jpeg)
-![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image3.jpeg)
-![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image4.jpeg)
-![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image5.jpeg)
-![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image6.jpeg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image1.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image11.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image12.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image3.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image5.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image4.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image9.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image1.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image2.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image13.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image5.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image6.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image7.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image8.jpg)
+![Images](https://github.com/collabnix/dockerbangalore/blob/master/slides/21st-Sep-2019-Docker-K8s-IoT-Meetup-Amazon/image10.jpg)
 
 
 
