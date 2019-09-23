@@ -11,7 +11,7 @@
 | Introducing Pico ~ Deep Learning Platform using Docker, Apache Kafka & Amazon Rekognition System - Ajeet Singh Raina, (DellEMC)| [Slides]() |  | 
 | Deep Dive into K8s Security - Saiyam Pathak (Walmart Labs)| [Slides](https://www.slideshare.net/saiyampathak1/kubernetes-security-174731411) |  | 
 | Deep Dive into Kubeflow:  Machine learning toolkit for kubernetes - Satya Narayan(Walmart Labs)| [Slides]() |  | 
-| Demystifying Docker & K8s Networking - Bala (OnMobile)| [Slides]() |  | 
+| Demystifying Docker & K8s Networking - Bala (OnMobile)| [Slides](https://www.slideshare.net/BalasundaramNataraja/demystfying-containernetworking/BalasundaramNataraja/demystfying-containernetworking) |  | 
 | TensorFlow, Docker & GoLang - All for Image Rekognition Sangam Biradar(EngineITops)| [Slides]() |  | 
 
 
