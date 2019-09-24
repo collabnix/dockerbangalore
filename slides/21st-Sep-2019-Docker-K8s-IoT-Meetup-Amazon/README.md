@@ -12,7 +12,7 @@
 | Deep Dive into K8s Security - Saiyam Pathak (Walmart Labs)| [Slides](https://www.slideshare.net/saiyampathak1/kubernetes-security-174731411) |  | 
 | Deep Dive into Kubeflow:  Machine learning toolkit for kubernetes - Satya Narayan(Walmart Labs)| [Slides]() |  | 
 | Demystifying Docker & K8s Networking - Bala (OnMobile)| [Slides]() |  | 
-| TensorFlow, Docker & GoLang - All for Image Rekognition Sangam Biradar(EngineITops)| [Slides](https://www.slideshare.net/sangambiradar370/tenserflow-go-docker-all-for-image-rekognition-sangam-biradar) |  | 
+| TensorFlow, Docker & GoLang - All for Image Rekognition Sangam Biradar(EngineITops)| [Slides](https://www.slideshare.net/sangambiradar370/tensorflow-docker-golang-all-for-image-rekognition-sangam-biradarengineitops) |  | 
 
 
 ## Images
