@@ -13,7 +13,7 @@ TBA
 # Online Webinars
 
 [14-September-2019](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/) - [#47 Collabnix Online Webinar: Demystifying Container Networking](https://github.com/collabnix/dockerbangalore/blob/master/slides/14th-Sep-2019-Collabnix-Online-Webinar-Demystifying-Container-Networking/README.md)<br>
-[21-November-2019](Integrated Log Analytics and Monitoring of Servers using Docker Containers & Elastic Stack](https://www.slideshare.net/ajeetraina/collabnix-online-webinar-integrated-log-analytics-monitoring-using-docker-elastic-stack)
+[21-November-2019](https://events.docker.com/accounts/dashboard/#/chapter-25/event-5093/manage) - [#48 Collabnix Online Webinar:Integrated Log Analytics and Monitoring of Servers using Docker Containers & Elastic Stack](https://www.slideshare.net/ajeetraina/collabnix-online-webinar-integrated-log-analytics-monitoring-using-docker-elastic-stack)
 
 # Recent Events
 
