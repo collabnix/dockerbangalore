@@ -8,7 +8,7 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
-[21-September 2019 - #48 Docker, K8s, ML + Docker101 Workshop - Amazon](https://events.docker.com/events/details/docker-bangalore-presents-docker-k8s-iot-mldl-docker101-hands-on-workshop-for-beginners/#/)<br>
+TBA
 
 # Online Webinars
 
@@ -16,7 +16,8 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
 
 # Recent Events
 
-
+[23-Nov-2019 - #49 Docker, Kubernetes & DevOps Tools + Docker Intermediate Workshop](https://github.com/collabnix/dockerbangalore/tree/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup)
+[21-September 2019 - #48 Docker, K8s, ML + Docker101 Workshop - Amazon](https://events.docker.com/events/details/docker-bangalore-presents-docker-k8s-iot-mldl-docker101-hands-on-workshop-for-beginners/#/)<br>
 [7-Septemeber-2019 - #46 Docker Bangalore Joint Meetup with Cloud Native Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-cloud-native-group-of-bangalore/#/)<br>
 [03rd August 2019 - #45 Docker, Kubernetes & IoT - WalmartLabs](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/readme.md)<br>
 [15th-June-2019 - #44 Dockercon 19 Recap & Announcements](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/README.md)<br>
