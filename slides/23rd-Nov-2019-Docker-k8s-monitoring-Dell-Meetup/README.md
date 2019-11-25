@@ -21,3 +21,7 @@
 ![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/IMG-20191123-WA0032.jpg)
 ![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/IMG-20191124-WA0007.jpg)
 ![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/IMG-20191123-092601.jpg)
+![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/IMG-20191123-111600.jpg)
+![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/IMG-20191123-114835.jpg)
+![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/IMG-20191123-115919.jpg)
+![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/IMG-20191123-121246.jpg)
