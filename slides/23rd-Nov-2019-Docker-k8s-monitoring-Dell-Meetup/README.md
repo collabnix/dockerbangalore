@@ -13,4 +13,4 @@
 | What's New in Kubernetes 1.16 and Rancher 2.3  - Saiyam Pathak (Walmart Labs)| [Slides](https://www.slideshare.net/saiyampathak1/kubernetes-116-and-rancher-23-enhancements) |  | 
 | Shepherd - A Highly Scalable Workflow Management Engine(SaaS) - Hitesh Jhamb, (Microsoft) | [Slides]() |  | 
 | Demystifying Docker & K8s Networking - Bala (OnMobile)| [Slides](https://www.slideshare.net/BalasundaramNataraja/demystfying-containernetworking/BalasundaramNataraja/demystfying-containernetworking) |  | 
-| Certified Kubernetes(K3s) for IoT - Sangam Biradar(EngineITops)| [Slides]() |  | 
+| Certified Kubernetes(K3s) for IoT - Sangam Biradar(EngineITops)| [Slides](https://www.slideshare.net/sangambiradar370/rabncher-meetup-india-lightweight-kubernetes-development-with-k3s-k3os-and-oketo) |  | 
