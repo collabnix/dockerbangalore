@@ -16,6 +16,7 @@
 | Certified Kubernetes(K3s) for IoT - Sangam Biradar(EngineITops)| [Slides](https://www.slideshare.net/sangambiradar370/rabncher-meetup-india-lightweight-kubernetes-development-with-k3s-k3os-and-oketo) |  | 
 
 
+![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/SAVE_20191123_111912.jpg)
 ![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/IMG-20191123-WA0028.jpg)
 ![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/IMG-20191123-WA0029.jpg)
 ![Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup/IMG-20191123-WA0032.jpg)
