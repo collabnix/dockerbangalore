@@ -2,6 +2,8 @@
 
 ### Venue: DellEMC
 
+## Number of Attendees: 300
+
 ### Slides:
 
 
