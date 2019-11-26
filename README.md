@@ -8,7 +8,7 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
-[Docker & Kubernetes Developer Tools](TBA)
+[Docker & Kubernetes Developer Tools](TBA) - Coming soon
 
 # Online Webinars
 
