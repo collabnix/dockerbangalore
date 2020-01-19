@@ -18,13 +18,13 @@
 
 ### Kubernetes101 Workshop Slides:
 
-| Topic        | Presentation          | Video  | 
-| ------------- |:-------------:| -----:| 
-| Kubernetes Introduction | [Slides](https://collabnix.github.io/kubelabs/Kubernetes_Intro_slides-1/Kubernetes_Intro_slides-1.html) | | 
-| Pod 101  | [Slides](https://collabnix.github.io/kubelabs/Pods101_slides/Pods101.html) |  | 
+| Topic        | Presentation          | 
+| ------------- |:-------------:| 
+| Kubernetes Introduction | [Slides](https://collabnix.github.io/kubelabs/Kubernetes_Intro_slides-1/Kubernetes_Intro_slides-1.html) |  
+| Pod 101  | [Slides](https://collabnix.github.io/kubelabs/Pods101_slides/Pods101.html) |  
 | ReplicaSet101 | [Slides](https://collabnix.github.io/kubelabs/SlidesReplicaSet101/ReplicaSet101.html) | 
 | Deployment101 | [Slides](https://collabnix.github.io/kubelabs/Deployment101_slides/Deployment101.html) | 
-| Services101| [Slides](https://collabnix.github.io/kubelabs/Slides_Services101/Services101.html)||
+| Services101| [Slides](https://collabnix.github.io/kubelabs/Slides_Services101/Services101.html)|
 
 
 ![My Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs/1.jpeg)
