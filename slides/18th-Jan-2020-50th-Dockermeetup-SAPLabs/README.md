@@ -12,4 +12,4 @@
 | CI/CD Development on Kubernetes:Skaffold - Suman Chakraborty (SAP Labs)| [Slides](https://www.slideshare.net/suchakra012/cicd-development-in-kubernetes-skaffold) |  | 
 | Gardener:The kubernetes Botanist - Saloni Narang (SAP Labs) | [Slides](https://www.slideshare.net/SaloniNarang2/gardener-221449692) | 
 | Mothership - An Open Source Paas for Small Application | [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs/Mothership%20presentation.pdf) | 
-| Ko by Sangam Biradar | [Slides]()||
+| ko: fast Kubernetes microservice development in Go by Sangam Biradar | [Slides](https://www.slideshare.net/sangambiradar370/google-ko-fast-kubernetes-microservice-development-in-go-sangam-biradar-engineitops)||
