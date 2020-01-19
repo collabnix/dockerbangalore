@@ -1,5 +1,5 @@
 # Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop
-### Venue: SAP LAbs
+### Venue: SAP Labs
 
 ## Number of Attendees: 550
 
