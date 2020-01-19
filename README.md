@@ -8,14 +8,14 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
-[Docker & Kubernetes Developer Tools](TBA) - Coming soon
+[Demystifying Docker & Kubernetes Tools + Kubernetes201 Workshop - LinekedIn](TBA) - Coming soon
 
 
 # Recent Events
 
 ## Year 2020
 
-[18-Jan-2020 - #50 Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop](https://github.com/collabnix/dockerbangalore/tree/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs)<br>
+[18-Jan-2020 - #50 Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop - SAP Labs](https://github.com/collabnix/dockerbangalore/tree/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs)<br>
 
 
 ## Year 2019
