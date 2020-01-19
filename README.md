@@ -8,7 +8,7 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
-TBA
+[Docker & Kubernetes Developer Tools](TBA) - Coming soon
 
 # Online Webinars
 
@@ -78,7 +78,7 @@ DockerLabs brings you tutorials that help you get hands-on experience using Dock
 
 ## Getting Started in 3 Simple Steps
 
-- Join 200+ DockerLabs Contributors in 2 mins via [DockerLabs Slack Channel](https://join.slack.com/t/collabnix/shared_invite/enQtNDkwMjY0OTE2NzA1LTYwMmE4MzU0YjQzYTU1NzUzZWRlNTI4MGFkMGRiMmZiM2YwNTc0MTNlOGIzZDc2NGNkOGUwNzdiN2JjZjI3MjE)
+- Join 1600+ DockerLabs Contributors in 2 mins via [DockerLabs Slack Channel](https://join.slack.com/t/collabnix/shared_invite/enQtNDkwMjY0OTE2NzA1LTYwMmE4MzU0YjQzYTU1NzUzZWRlNTI4MGFkMGRiMmZiM2YwNTc0MTNlOGIzZDc2NGNkOGUwNzdiN2JjZjI3MjE)
 
 - Fork, Contribute & Share via [DockerLabs GITHUB Repository](https://github.com/collabnix/dockerlabs)
 
