@@ -29,7 +29,6 @@
 
 ![My Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs/1.jpeg)
 ![My Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs/2.jpeg)
-![My Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs/3.jpeg)
 ![My Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs/4.jpeg)
 ![My Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs/5.jpeg)
 ![My Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs/6.jpeg)
