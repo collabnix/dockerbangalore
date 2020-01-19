@@ -9,4 +9,5 @@
 | Topic        | Presentation          | Video  | 
 | ------------- |:-------------:| -----:| 
 | Docker Security 101  - Saiyam Pathak (Walmart Labs)| [Slides](https://www.slideshare.net/saiyampathak1/docker-security-101) |  | 
+| CI/CD Development on Kubernetes:Skaffold - Suman Chakraborty (SAP Labs)| [Slides](https://www.slideshare.net/suchakra012/cicd-development-in-kubernetes-skaffold) |  | 
 
