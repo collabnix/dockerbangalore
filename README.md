@@ -3,7 +3,7 @@
 Welcome to the Docker Bangalore Meetup Community repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
 
- ![My Image](https://github.com/collabnix/dockerbangalore/blob/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936479.jpeg)
+ ![My Image](https://raw.githubusercontent.com/collabnix/dockerbangalore/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936479.jpeg)
 
  
 # Upcoming Meetup | Conference
@@ -15,24 +15,24 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
 
 ## Year 2020
 
-[18-Jan-2020 - #50 Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop - SAP Labs](https://github.com/collabnix/dockerbangalore/tree/master/slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs)<br>
+[18-Jan-2020 - #50 Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop - SAP Labs](./slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs)<br>
 
 
 ## Year 2019
 
-[23-Nov-2019 - #49 Docker, Kubernetes & DevOps Tools + Docker Intermediate Workshop](https://github.com/collabnix/dockerbangalore/tree/master/slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup)<br>
+[23-Nov-2019 - #49 Docker, Kubernetes & DevOps Tools + Docker Intermediate Workshop](./slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup)<br>
 [21-September 2019 - #48 Docker, K8s, ML + Docker101 Workshop - Amazon](https://events.docker.com/events/details/docker-bangalore-presents-docker-k8s-iot-mldl-docker101-hands-on-workshop-for-beginners/#/)<br>
 [7-Septemeber-2019 - #46 Docker Bangalore Joint Meetup with Cloud Native Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-cloud-native-group-of-bangalore/#/)<br>
-[03rd August 2019 - #45 Docker, Kubernetes & IoT - WalmartLabs](https://github.com/collabnix/dockerbangalore/blob/master/slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/readme.md)<br>
-[15th-June-2019 - #44 Dockercon 19 Recap & Announcements](https://github.com/collabnix/dockerbangalore/blob/master/slides/15th-June-2019-Dockercon19-Recap/README.md)<br>
-[25-April-2019 - #43 Docker Joint Meetup with OpenFaas @Microsoft Developer Group](https://github.com/collabnix/dockerbangalore/blob/master/slides/2019-04-25-Joint-Meetup-OpenFaas-Microsoft-Developer-Group/README.md)<br>
-[30-March-2019 - #42 Docker 6th Birthday Celeberation Event](https://github.com/collabnix/dockerbangalore/tree/master/slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/README.md)<br>
-[19-January-2019 - #41 Joint Meetup with Kubernetes & OpenShift + CloudNativeCon](https://github.com/collabnix/dockerbangalore/tree/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/README.md)
+[03rd August 2019 - #45 Docker, Kubernetes & IoT - WalmartLabs](./slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/readme.md)<br>
+[15th-June-2019 - #44 Dockercon 19 Recap & Announcements](./slides/15th-June-2019-Dockercon19-Recap/README.md)<br>
+[25-April-2019 - #43 Docker Joint Meetup with OpenFaas @Microsoft Developer Group](./slides/2019-04-25-Joint-Meetup-OpenFaas-Microsoft-Developer-Group/README.md)<br>
+[30-March-2019 - #42 Docker 6th Birthday Celeberation Event](./slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/README.md)<br>
+[19-January-2019 - #41 Joint Meetup with Kubernetes & OpenShift + CloudNativeCon](./slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/README.md)
 
 
 # Online Webinars
 
-[14-September-2019](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/) - [#47 Collabnix Online Webinar: Demystifying Container Networking](https://github.com/collabnix/dockerbangalore/blob/master/slides/14th-Sep-2019-Collabnix-Online-Webinar-Demystifying-Container-Networking/README.md)<br>
+[14-September-2019](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/) - [#47 Collabnix Online Webinar: Demystifying Container Networking](./slides/14th-Sep-2019-Collabnix-Online-Webinar-Demystifying-Container-Networking/README.md)<br>
 [21-November-2019](https://events.docker.com/accounts/dashboard/#/chapter-25/event-5093/manage) - [#48 Collabnix Online Webinar:Integrated Log Analytics and Monitoring of Servers using Docker Containers & Elastic Stack](https://www.slideshare.net/ajeetraina/collabnix-online-webinar-integrated-log-analytics-monitoring-using-docker-elastic-stack)
 
 
