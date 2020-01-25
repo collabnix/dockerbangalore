@@ -8,7 +8,11 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  
 # Upcoming Meetup | Conference
 
+<<<<<<< HEAD
 [Demystifying Docker & Kubernetes Tools + Kubernetes101 Workshop(Contd) - LinkedIn](TBA) - Coming soon
+=======
+[Demystifying Docker & Kubernetes Tools + Kubernetes101 Workshop(Contd]()
+>>>>>>> upstream/master
 
 
 # Recent Events
