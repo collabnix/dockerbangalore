@@ -6,16 +6,16 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
  ![My Image](https://raw.githubusercontent.com/collabnix/dockerbangalore/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936479.jpeg)
 
  
-# Upcoming Meetup | Conference
-
-[Demystifying Docker & Kubernetes Tools + Kubernetes101 Workshop(Contd]()
 
 
-# Recent Events
 
-## Year 2021
+# Upcoming Event
+
 
 [June 2021 - Meetup #53 - A Joint Meetup with JFrog & Collabnix Community](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-jfrog-collabnix-community/) - [Slides](./slides/19th-June-2021-53rd-DockerMeetup-JFrog/)<br>
+
+## Year 2021 
+
 [April 2021 - Meetup #52 - A Joint Meetup with Open Source Community Conference (OSCONF) 2021](https://events.docker.com/events/details/docker-bangalore-presents-a-joint-meetup-with-open-source-community-conference-osconf-2021-online-virtual-event/)<br>
 [Jan 2021 - Meetup #51: Joint Meetup with Docker Malaysia & Docker Pune Group | Docker, DevOps and IoT ](https://events.docker.com/events/details/docker-bangalore-presents-meetup-51-joint-meetup-with-docker-malaysia-docker-pune-group-docker-devops-and-iot/)<br>
 
