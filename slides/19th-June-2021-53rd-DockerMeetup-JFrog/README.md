@@ -7,7 +7,7 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| The Docker and Container Ecosystem 101 - Melissa McKay, Docker Captain, Java Champion, Developer Advocate @ JFrog| [Slides](-) | [ - ]() |
+| The Docker and Container Ecosystem 101 - Melissa McKay, Docker Captain, Java Champion, Developer Advocate @ JFrog| [Slides](https://noti.st/mjmckay/dccwvh/the-docker-container-ecosystem-101) | [ - ]() |
 | Improving AppSec while building DevSecOps pipeline - Suresh Chandra Bose, Assoc Director @ Cognizant Business Consulting| [Slides](-)| [ - ]()| 
 | Extending Docker & Kubernetes(K3s) to IoT Edge - Ajeet Singh Raina, Docker Captain, Collabnix Founder, Developer Relations Manager @ Redis Labs| [Slides](-)| [ - ]()| 
 | Improving AppSec while building DevSecOps pipeline - Suresh Chandra Bose, Assoc Director @ Cognizant Business Consulting| [Slides](-)| [ - ]()| 
