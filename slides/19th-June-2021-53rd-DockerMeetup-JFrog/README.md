@@ -14,7 +14,7 @@
 | Rover: Implementing Landing Zones in Azure using Docker Containers - Sujay Pillai, Docker Captain, Certified Azure Cloud Engineer @ Jabil| [Slides](https://www.slideshare.net/sujayopillai/rover-implementing-landing-zone-using-docker-container)| [ - ]()|
 | The ABC's of Container Security - Suman Chakraborty, Senior DevOps Engineer @ SAP Labs India| [Slides](-)| [ - ]()| 
 | Scaling DevOps to the Edge - Steve Chin, VP of Developer Relations @ JFrog| [Slides](-)| [ - ]()| 
-| GitOps, The Next Big Thing for DevOps and Automation! - Aditya Soni, DevOps & Cloud, AWS Community Builder @ Red Hat| [Slides](-)| [ - ]()| 
+| GitOps, The Next Big Thing for DevOps and Automation! - Aditya Soni, DevOps & Cloud, AWS Community Builder @ Red Hat| [Slides](https://drive.google.com/file/d/190STeDnlMAGQrcYAlOiiuQi8oPurN3RE/view?usp=sharing)| [ - ]()| 
 | DevOps for Machine Learning - Arun Kumar G, Solution Engineer @ JFrog | [Slides](-)| [ - ]()| 
 
 
