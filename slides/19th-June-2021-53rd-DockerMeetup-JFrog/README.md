@@ -12,7 +12,7 @@
 | Extending Docker & Kubernetes(K3s) to IoT Edge - Ajeet Singh Raina, Docker Captain, Collabnix Founder, Developer Relations Manager @ Redis Labs| [Slides](https://www.slideshare.net/ajeetraina/delivering-docker-k3s-worloads-to-iot-edge-devices)| [ - ]()| 
 | Improving AppSec while building DevSecOps pipeline - Suresh Chandra Bose, Assoc Director @ Cognizant Business Consulting| [Slides](-)| [ - ]()| 
 | Rover: Implementing Landing Zones in Azure using Docker Containers - Sujay Pillai, Docker Captain, Certified Azure Cloud Engineer @ Jabil| [Slides](https://www.slideshare.net/sujayopillai/rover-implementing-landing-zone-using-docker-container)| [ - ]()|
-| The ABC's of Container Security - Suman Chakraborty, Senior DevOps Engineer @ SAP Labs India| [Slides](-)| [ - ]()| 
+| The ABC's of Container Security - Suman Chakraborty, Senior DevOps Engineer @ SAP Labs India| [Slides](https://drive.google.com/file/d/1Zk3WrnHnB1J31qZZV1uwsG_i6vs2z-At/view?usp=sharing)| [ - ]()| 
 | Scaling DevOps to the Edge - Steve Chin, VP of Developer Relations @ JFrog| [Slides](-)| [ - ]()| 
 | GitOps, The Next Big Thing for DevOps and Automation! - Aditya Soni, DevOps & Cloud, AWS Community Builder @ Red Hat| [Slides](https://drive.google.com/file/d/190STeDnlMAGQrcYAlOiiuQi8oPurN3RE/view?usp=sharing)| [ - ]()| 
 | DevOps for Machine Learning - Arun Kumar G, Solution Engineer @ JFrog | [Slides](-)| [ - ]()| 
