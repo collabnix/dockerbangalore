@@ -1,7 +1,7 @@
 # Docker 9th Birthday Celebration with JFrog Community
 
 
-## Venue: Online Event
+## Venue: In-Person Event
 
 ## Slides
 
