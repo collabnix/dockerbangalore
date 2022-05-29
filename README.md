@@ -24,12 +24,12 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 ## Year 2022
 
-[May 14th - Meetup #55 -  Docker Developer Community Event - Meetup #55 ](https://www.meetup.com/Docker-Bangalore/events/285342797/)<br>
 [March 26th 2022 - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)<br>
-[June 2021 - Meetup #53 - A Joint Meetup with JFrog & Collabnix Community](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-jfrog-collabnix-community/) - [Slides](./slides/19th-June-2021-53rd-DockerMeetup-JFrog/)<br>
+
 
 ## Year 2021 
 
+[June 2021 - Meetup #53 - A Joint Meetup with JFrog & Collabnix Community](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-jfrog-collabnix-community/) - [Slides](./slides/19th-June-2021-53rd-DockerMeetup-JFrog/)<br>
 [April 2021 - Meetup #52 - A Joint Meetup with Open Source Community Conference (OSCONF) 2021](https://events.docker.com/events/details/docker-bangalore-presents-a-joint-meetup-with-open-source-community-conference-osconf-2021-online-virtual-event/)<br>
 [Jan 2021 - Meetup #51: Joint Meetup with Docker Malaysia & Docker Pune Group | Docker, DevOps and IoT ](https://events.docker.com/events/details/docker-bangalore-presents-meetup-51-joint-meetup-with-docker-malaysia-docker-pune-group-docker-devops-and-iot/)<br>
 
