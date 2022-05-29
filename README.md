@@ -1,6 +1,6 @@
 # Docker Bangalore Meetup Community Page
 
-Welcome to the Docker Bangalore Meetup Community repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
+Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker-Bangalore) repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
 
  ![My Image](https://raw.githubusercontent.com/collabnix/dockerbangalore/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936479.jpeg)
