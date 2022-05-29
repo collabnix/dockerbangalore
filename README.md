@@ -58,6 +58,9 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 # Docker Birthday Celebration - Blogs
 
+[Docker 9th Birthday Celebration](https://collabnix.com/highlights-docker-9th-birthday-celebration-meetup/)<br>
+[Docker 8th Birthday Celebration](https://www.docker.com/blog/a-birthday-challenge-as-docker-turns-8/)<br>
+[Docker 7th Birthday Celebration](https://www.docker.com/blog/docker-turns-7/)<br>
 [Docker 6th Birthday Celebration](http://collabnix.com/docker-birthday-6-thank-you-docker-bangalore-community//)<br>
 [Docker 5th Birthday Celebration](http://collabnix.com/dockers-birthday-celebration-in-bangalore-the-fifth-kind/)<br>
 [Docker 4th Birthday Celebration](https://neependra.net/?p=2209)<br>
