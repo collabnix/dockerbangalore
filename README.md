@@ -11,15 +11,13 @@ Welcome to the Docker Bangalore Meetup Community repo! This repo aims to central
 
 # Upcoming Event
 
+[June 11 - Meetup #56 - Docker Developer Meetup at VISA](https://www.meetup.com/Docker-Bangalore/events/285342797/)
+
+
 ## Year 2022
 
-[May 14th Docker Developer Community Event - Meetup #55 ](https://www.meetup.com/Docker-Bangalore/events/285342797/)
-
-## Past Events
-
-[Docker 9th Birthday Celebration with JFrog Community - Meetup #54 ](https://www.meetup.com/Docker-Bangalore/events/284247414/)
-
-
+[May 14th - Meetup #55 -  Docker Developer Community Event - Meetup #55 ](https://www.meetup.com/Docker-Bangalore/events/285342797/)<br>
+[March 26th 2022 - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)<br>
 [June 2021 - Meetup #53 - A Joint Meetup with JFrog & Collabnix Community](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-jfrog-collabnix-community/) - [Slides](./slides/19th-June-2021-53rd-DockerMeetup-JFrog/)<br>
 
 ## Year 2021 
