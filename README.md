@@ -24,7 +24,7 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 ## Year 2022
 
-[March 26th 2022 - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)<br>
+[March 26th - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)<br>
 
 
 ## Year 2021 
