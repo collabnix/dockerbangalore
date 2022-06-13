@@ -6,7 +6,7 @@
 ![issues](https://img.shields.io/github/issues/collabnix/dockerbangalore)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.dockerbangalore)
 ![GitHub contributors](https://img.shields.io/github/contributors/collabnix/dockerbangalore)
-![Twitter](https://img.shields.io/twitter/follow/kubetools?style=social)
+![Twitter](https://img.shields.io/twitter/follow/dockerbangalore?style=social)
 
 Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker-Bangalore) repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
