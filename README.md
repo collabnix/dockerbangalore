@@ -19,7 +19,7 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 # Upcoming Event
 
-[June 11 - Meetup #56 - Docker Developer Meetup at VISA](https://www.meetup.com/Docker-Bangalore/events/285342797/)
+[June 11 - Meetup #56 - Docker Developer Meetup at Microsoft Reactor](https://www.meetup.com/Docker-Bangalore/events/285342797/)
 
 
 ## Year 2022
