@@ -14,6 +14,8 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 ## Year 2022
 
 
+
+[July 23 - Meetup #57 - Docker Developer Meetup at Harness.io](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/30July-DockerDeveloper-Harness)<br>
 [June 11 - Meetup #56 - Docker Developer Meetup at Microsoft Reactor](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/11thJune-DockerDeveloper-MicrosoftReactor)<br>
 [March 26th - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)<br>
 
