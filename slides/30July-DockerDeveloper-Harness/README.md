@@ -3,5 +3,6 @@
 ## Date 30th July
 
 
-| Topic        | Presentation          | Video  |
-| ------------- |:-------------:| -----:|
+| Topic        |  Speaker  |    Presentation Link          | Video Link  |
+| ------------- |:-------------:| -----:| -----:| 
+| Drone Docker Extension | Kamesh | 
