@@ -13,7 +13,7 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
  ![My Image](https://raw.githubusercontent.com/collabnix/dockerbangalore/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936479.jpeg)
 
- ## Year 2022
+## Year 2022
 
 
 [June 11 - Meetup #56 - Docker Developer Meetup at Microsoft Reactor](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/11thJune-DockerDeveloper-MicrosoftReactor)<br>
