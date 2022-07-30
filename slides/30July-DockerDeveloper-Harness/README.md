@@ -5,4 +5,5 @@
 
 | Topic        |  Speaker  |    Presentation Link          | Video Link  |
 | ------------- |:-------------:| -----:| -----:| 
-| Drone Docker Extension | Kamesh | 
+| Drone Docker Extension | Kamesh | [Link]() | |
+
