@@ -7,4 +7,5 @@
 | ------------- |:-------------:| -----:| -----:| 
 | Drone Docker Extension | Kamesh | [Link]() | |
 | 5 Top Docker Extensions | Ajeet Raina | [Link]() | |
+| Securing your Kubernetes Clusters with Kubescape | Avinash Upadhyaya | [Link](/slides/30July-DockerDeveloper-Harness/Kubescape.pdf) | |
 
