@@ -11,19 +11,12 @@
 Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker-Bangalore) repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
 
- ![My Image](https://raw.githubusercontent.com/collabnix/dockerbangalore/master/slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/images/600_477936479.jpeg)
-
- 
-
-
-
-# Upcoming Event
-
-[June 11 - Meetup #56 - Docker Developer Meetup at Microsoft Reactor](https://www.meetup.com/Docker-Bangalore/events/285342797/)
-
-
 ## Year 2022
 
+
+
+[July 30 - Meetup #57 - Docker Developer Meetup at Harness.io](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/30July-DockerDeveloper-Harness)<br>
+[June 11 - Meetup #56 - Docker Developer Meetup at Microsoft Reactor](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/11thJune-DockerDeveloper-MicrosoftReactor)<br>
 [March 26th - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)<br>
 
 
@@ -73,7 +66,7 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 #### [Docker Bangalore Meetup](https://www.meetup.com/Docker-Bangalore/)
 
-With around 8100+ community member, Docker Bangalore Meetup group is one of the largest Docker meetup group in India.
+With around 11400+ community member, Docker Bangalore Meetup group is one of the largest Docker meetup group in India.
 
 With a motto of "Learn, Collaborate & Dockerize!" you get chance to meet other developers and ops engineers in your community that are using and learning about Docker. Docker is an open platform that helps you build, ship and run applications anytime and anywhere. Developers use Docker to modify code and to streamline application development, while operations gain support to quickly and flexibly respond to their changing needs. Docker ensures agility, portability and control for all your distributed apps.
 
