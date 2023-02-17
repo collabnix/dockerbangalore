@@ -11,10 +11,20 @@
 Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker-Bangalore) repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
 
+## Year 2023
+
+[Jan 14 - Meetup #63 - Docker Desktop Workshop](https://www.meetup.com/docker-bangalore/events/289368469/)
+
+
+
 ## Year 2022
 
 
-
+[Nov 19 - Meetup #62 - Drone CI x Docker Workshop](https://www.meetup.com/docker-bangalore/events/289661078/)<br>
+[Nov 5 - Meetup #61 - Joint Meetup - A Joint Meetup with 6 Bengaluru Tech Communities](https://www.meetup.com/docker-bangalore/events/289143472/)<br>
+[Oct 22- Meetup #60 - Hacktoberfest 2022: Docker Extensions "Show-n-Tell"](https://www.meetup.com/docker-bangalore/events/288597531/)<br>
+[Oct 15 - Meetup #59 -Open Source Community Conference 2022](https://www.meetup.com/docker-bangalore/events/287525228/)<br>
+[Sep 10 - Meetup #58 - Docker Developer Workshop](https://www.meetup.com/docker-bangalore/events/288047415/)<br>
 [July 30 - Meetup #57 - Docker Developer Meetup at Harness.io](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/30July-DockerDeveloper-Harness)<br>
 [June 11 - Meetup #56 - Docker Developer Meetup at Microsoft Reactor](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/11thJune-DockerDeveloper-MicrosoftReactor)<br>
 [March 26th - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)<br>
