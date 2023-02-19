@@ -76,7 +76,7 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 #### [Docker Bangalore Meetup](https://www.meetup.com/Docker-Bangalore/)
 
-With around 11400+ community member, Docker Bangalore Meetup group is one of the largest Docker meetup group in India.
+With around 13000+ community member, Docker Bangalore Meetup group is one of the largest Docker meetup group in India.
 
 With a motto of "Learn, Collaborate & Dockerize!" you get chance to meet other developers and ops engineers in your community that are using and learning about Docker. Docker is an open platform that helps you build, ship and run applications anytime and anywhere. Developers use Docker to modify code and to streamline application development, while operations gain support to quickly and flexibly respond to their changing needs. Docker ensures agility, portability and control for all your distributed apps.
 
@@ -113,7 +113,7 @@ DockerLabs brings you tutorials that help you get hands-on experience using Dock
 
 ## Getting Started in 3 Simple Steps
 
-- Join 1600+ DockerLabs Contributors in 2 mins via [DockerLabs Slack Channel](https://join.slack.com/t/collabnix/shared_invite/enQtNDkwMjY0OTE2NzA1LTYwMmE4MzU0YjQzYTU1NzUzZWRlNTI4MGFkMGRiMmZiM2YwNTc0MTNlOGIzZDc2NGNkOGUwNzdiN2JjZjI3MjE)
+- Join 8000+ DockerLabs Contributors in 2 mins via [DockerLabs Slack Channel](https://join.slack.com/t/collabnix/shared_invite/enQtNDkwMjY0OTE2NzA1LTYwMmE4MzU0YjQzYTU1NzUzZWRlNTI4MGFkMGRiMmZiM2YwNTc0MTNlOGIzZDc2NGNkOGUwNzdiN2JjZjI3MjE)
 
 - Fork, Contribute & Share via [DockerLabs GITHUB Repository](https://github.com/collabnix/dockerlabs)
 
