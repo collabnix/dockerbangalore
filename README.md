@@ -81,7 +81,7 @@ With around 13000+ community member, Docker Bangalore Meetup group is one of the
 
 With a motto of "Learn, Collaborate & Dockerize!" you get chance to meet other developers and ops engineers in your community that are using and learning about Docker. Docker is an open platform that helps you build, ship and run applications anytime and anywhere. Developers use Docker to modify code and to streamline application development, while operations gain support to quickly and flexibly respond to their changing needs. Docker ensures agility, portability and control for all your distributed apps.
 
-Visit [Docker Bangalore official Community Page](https://events.docker.com/bangalore/) for registering to the Community Page.
+Visit [Docker Bangalore official Community Page](https://www.meetup.com/docker-bangalore) for registering to the Community Page.
 
 
 
