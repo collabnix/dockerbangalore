@@ -76,6 +76,7 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 # Docker Birthday Celebration - Blogs
 
+[Docker 10th Birthday Celebration](https://collabnix.com/reflecting-on-a-decade-of-innovation-celebrating-dockers-10th-birthday/)
 [Docker 9th Birthday Celebration](https://collabnix.com/highlights-docker-9th-birthday-celebration-meetup/)<br>
 [Docker 8th Birthday Celebration](https://www.docker.com/blog/a-birthday-challenge-as-docker-turns-8/)<br>
 [Docker 7th Birthday Celebration](https://www.docker.com/blog/docker-turns-7/)<br>
