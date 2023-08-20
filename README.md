@@ -21,6 +21,11 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 ## Year 2023
 
+[Aug 19 - Meetup #71 - Docker + Wasm Day](https://www.meetup.com/docker-bangalore/events/294113513/)<br>
+[Aug 8 - Meetup #70 - Docker Dev Tools: Turbocharge Your Workflow!](https://www.meetup.com/collabnix/events/295293445/)<br>
+[July 11 - Meetup #69 - Navigating the Cloud - Streamlined Docker container Deployment on AWS](https://www.meetup.com/collabnix/events/294571034/)<br>
+[July 8 - Meetup #68 - Kubernetes 101 workshop for Beginners](https://www.meetup.com/docker-bangalore/events/292916152/)<br>
+[July 5 - Meetup #67 - Exploring Graph Database with Neo4j DB and Docker Desktop](https://www.meetup.com/collabnix/events/294404314/)<br>
 [April 08 - Meetup #65 - Docker 10th Birthday](https://www.meetup.com/docker-bangalore/events/292208017/)<br>
 [Feb 18 - Meetup #64 - Docker x IoT Show-n-Tell Event](https://www.meetup.com/docker-bangalore/events/291406741/) - [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/Feb18-docker-iot-show-n-tell/README.md)<br>
 [Jan 14 - Meetup #63 - Docker Desktop Workshop](https://www.meetup.com/docker-bangalore/events/289368469/)
