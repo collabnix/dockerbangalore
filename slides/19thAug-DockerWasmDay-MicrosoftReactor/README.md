@@ -9,7 +9,7 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Getting Started with Wasm + Docker - Ajeet Singh Raina | [Slides]()| | <br>(https://docs.google.com/presentation/d/15mCnhs4iPYGv1NCTcOHn_pPYNjGHSp-prdKSgUjKuFE/edit?usp=sharing) |  |
+| Getting Started with Wasm + Docker - Ajeet Singh Raina | [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/19thAug-DockerWasmDay-MicrosoftReactor/Wasm_Meetup_Day.pdf)| | <br>(https://docs.google.com/presentation/d/15mCnhs4iPYGv1NCTcOHn_pPYNjGHSp-prdKSgUjKuFE/edit?usp=sharing) |  |
 | Integrating Docker Scout with CI/CD: A Comprehensive Guide - Avinash Dalvi |[Slides]()| | <br>
 | Building WASM plugins for Envoy - Avinash Upadhyaya |[Slides]()| | <br>
 | OCI inspired - container format for Package Managers built using WebAssembly - Rudra Arora | [Slides]()| | <br>
