@@ -4,7 +4,6 @@
 ![stars](https://img.shields.io/github/stars/collabnix/dockerbangalore)
 ![forks](https://img.shields.io/github/forks/collabnix/dockerbangalore)
 ![issues](https://img.shields.io/github/issues/collabnix/dockerbangalore)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.dockerbangalore)
 ![GitHub contributors](https://img.shields.io/github/contributors/collabnix/dockerbangalore)
 ![Twitter](https://img.shields.io/twitter/follow/dockerbangalore?style=social)
 
