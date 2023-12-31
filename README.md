@@ -20,36 +20,43 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 ## Year 2023
 
-[Oct 14 - Meetup #72 - Docker x Kubetools x AI Show-n-Tell](https://www.meetup.com/docker-bangalore/events/296588343/) - [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/Oct14-Docker-Kubetools-AI-Show-n-tell/README.md)<br>
-[Aug 19 - Meetup #71 - Docker + Wasm Day](https://www.meetup.com/docker-bangalore/events/294113513/) - [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/19thAug-DockerWasmDay-MicrosoftReactor/README.md)<br>
-[Aug 8 - Meetup #70 - Docker Dev Tools: Turbocharge Your Workflow!](https://www.meetup.com/collabnix/events/295293445/)<br>
-[July 11 - Meetup #69 - Navigating the Cloud - Streamlined Docker container Deployment on AWS](https://www.meetup.com/collabnix/events/294571034/)<br>
-[July 8 - Meetup #68 - Kubernetes 101 workshop for Beginners](https://www.meetup.com/docker-bangalore/events/292916152/)<br>
-[July 5 - Meetup #67 - Exploring Graph Database with Neo4j DB and Docker Desktop](https://www.meetup.com/collabnix/events/294404314/)<br>
-[April 08 - Meetup #65 - Docker 10th Birthday](https://www.meetup.com/docker-bangalore/events/292208017/)<br>
-[Feb 18 - Meetup #64 - Docker x IoT Show-n-Tell Event](https://www.meetup.com/docker-bangalore/events/291406741/) - [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/Feb18-docker-iot-show-n-tell/README.md)<br>
-[Jan 14 - Meetup #63 - Docker Desktop Workshop](https://www.meetup.com/docker-bangalore/events/289368469/)
+| Meetup                                                                                                                                             | Slides                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [Oct 14 - Meetup #72 - Docker x Kubetools x AI Show-n-Tell](https://www.meetup.com/docker-bangalore/events/296588343/)                             | [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/Oct14-Docker-Kubetools-AI-Show-n-tell/README.md)  |
+| [Aug 19 - Meetup #71 - Docker + Wasm Day](https://www.meetup.com/docker-bangalore/events/294113513/)                                               | [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/19thAug-DockerWasmDay-MicrosoftReactor/README.md) |
+| [Aug 8 - Meetup #70 - Docker Dev Tools: Turbocharge Your Workflow!](https://www.meetup.com/collabnix/events/295293445/)                            |                                                                                                                            |
+| [July 11 - Meetup #69 - Navigating the Cloud - Streamlined Docker container Deployment on AWS](https://www.meetup.com/collabnix/events/294571034/) |                                                                                                                            |
+| [July 8 - Meetup #68 - Kubernetes 101 workshop for Beginners](https://www.meetup.com/docker-bangalore/events/292916152/)                           |                                                                                                                            |
+| [July 5 - Meetup #67 - Exploring Graph Database with Neo4j DB and Docker Desktop](https://www.meetup.com/collabnix/events/294404314/)              |                                                                                                                            |
+| [April 08 - Meetup #65 - Docker 10th Birthday](https://www.meetup.com/docker-bangalore/events/292208017/)                                          |                                                                                                                            |
+| [Feb 18 - Meetup #64 - Docker x IoT Show-n-Tell Event](https://www.meetup.com/docker-bangalore/events/291406741/)                                  | [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/Feb18-docker-iot-show-n-tell/README.md)           |
+| [Jan 14 - Meetup #63 - Docker Desktop Workshop](https://www.meetup.com/docker-bangalore/events/289368469/)                                         |                                                                                                                            |
+|                                                                                                                                                    |                                                                                                                            |
 
 
 
 ## Year 2022
 
 
-[Nov 19 - Meetup #62 - Drone CI x Docker Workshop](https://www.meetup.com/docker-bangalore/events/289661078/)<br>
-[Nov 5 - Meetup #61 - Joint Meetup - A Joint Meetup with 6 Bengaluru Tech Communities](https://www.meetup.com/docker-bangalore/events/289143472/)<br>
-[Oct 22- Meetup #60 - Hacktoberfest 2022: Docker Extensions "Show-n-Tell"](https://www.meetup.com/docker-bangalore/events/288597531/)<br>
-[Oct 15 - Meetup #59 -Open Source Community Conference 2022](https://www.meetup.com/docker-bangalore/events/287525228/)<br>
-[Sep 10 - Meetup #58 - Docker Developer Workshop](https://www.meetup.com/docker-bangalore/events/288047415/)<br>
-[July 30 - Meetup #57 - Docker Developer Meetup at Harness.io](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/30July-DockerDeveloper-Harness)<br>
-[June 11 - Meetup #56 - Docker Developer Meetup at Microsoft Reactor](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/11thJune-DockerDeveloper-MicrosoftReactor)<br>
-[March 26th - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)<br>
+| Meetup                                                                                                                                            | Slides                                                                                                              |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| [Nov 19 - Meetup #62 - Drone CI x Docker Workshop](https://www.meetup.com/docker-bangalore/events/289661078/)                                     |                                                                                                                     |
+| [Nov 5 - Meetup #61 - Joint Meetup - A Joint Meetup with 6 Bengaluru Tech Communities](https://www.meetup.com/docker-bangalore/events/289143472/) |                                                                                                                     |
+| [Oct 22- Meetup #60 - Hacktoberfest 2022: Docker Extensions "Show-n-Tell"](https://www.meetup.com/docker-bangalore/events/288597531/)             |                                                                                                                     |
+| [Oct 15 - Meetup #59 -Open Source Community Conference 2022](https://www.meetup.com/docker-bangalore/events/287525228/)                           |                                                                                                                     |
+| [Sep 10 - Meetup #58 - Docker Developer Workshop](https://www.meetup.com/docker-bangalore/events/288047415/)                                      |                                                                                                                     |
+| [July 30 - Meetup #57 - Docker Developer Meetup at Harness.io](https://www.meetup.com/Docker-Bangalore/events/285342797/)                         | [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/30July-DockerDeveloper-Harness)            |
+| [June 11 - Meetup #56 - Docker Developer Meetup at Microsoft Reactor](https://www.meetup.com/Docker-Bangalore/events/285342797/)                  | [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/11thJune-DockerDeveloper-MicrosoftReactor) |
+| [March 26th - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)     |                                                                                                                     |
 
 
 ## Year 2021 
 
-[June 2021 - Meetup #53 - A Joint Meetup with JFrog & Collabnix Community](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-jfrog-collabnix-community/) - [Slides](./slides/19th-June-2021-53rd-DockerMeetup-JFrog/)<br>
-[April 2021 - Meetup #52 - A Joint Meetup with Open Source Community Conference (OSCONF) 2021](https://events.docker.com/events/details/docker-bangalore-presents-a-joint-meetup-with-open-source-community-conference-osconf-2021-online-virtual-event/)<br>
-[Jan 2021 - Meetup #51: Joint Meetup with Docker Malaysia & Docker Pune Group | Docker, DevOps and IoT ](https://events.docker.com/events/details/docker-bangalore-presents-meetup-51-joint-meetup-with-docker-malaysia-docker-pune-group-docker-devops-and-iot/)<br>
+| Meetup                                                                                                                                                                                                                                                             | Slides                                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| [June 2021 - Meetup #53 - A Joint Meetup with JFrog & Collabnix Community](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-jfrog-collabnix-community/)                                                       | [Slides](./slides/19th-June-2021-53rd-DockerMeetup-JFrog/) |
+| [April 2021 - Meetup #52 - A Joint Meetup with Open Source Community Conference (OSCONF) 2021](https://events.docker.com/events/details/docker-bangalore-presents-a-joint-meetup-with-open-source-community-conference-osconf-2021-online-virtual-event/)          |                                                            |
+| [Jan 2021 - Meetup #51: Joint Meetup with Docker Malaysia & Docker Pune Group \| Docker, DevOps and IoT ](https://events.docker.com/events/details/docker-bangalore-presents-meetup-51-joint-meetup-with-docker-malaysia-docker-pune-group-docker-devops-and-iot/) |                                                            |
 
 ## Year 2020
 
@@ -58,33 +65,38 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 ## Year 2019
 
-[23-Nov-2019 - #49 Docker, Kubernetes & DevOps Tools + Docker Intermediate Workshop](./slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup)<br>
-[21-September 2019 - #48 Docker, K8s, ML + Docker101 Workshop - Amazon](https://events.docker.com/events/details/docker-bangalore-presents-docker-k8s-iot-mldl-docker101-hands-on-workshop-for-beginners/#/)<br>
-[7-Septemeber-2019 - #46 Docker Bangalore Joint Meetup with Cloud Native Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-cloud-native-group-of-bangalore/#/)<br>
-[03rd August 2019 - #45 Docker, Kubernetes & IoT - WalmartLabs](./slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/readme.md)<br>
-[15th-June-2019 - #44 Dockercon 19 Recap & Announcements](./slides/15th-June-2019-Dockercon19-Recap/README.md)<br>
-[25-April-2019 - #43 Docker Joint Meetup with OpenFaas @Microsoft Developer Group](./slides/2019-04-25-Joint-Meetup-OpenFaas-Microsoft-Developer-Group/README.md)<br>
-[30-March-2019 - #42 Docker 6th Birthday Celeberation Event](./slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/README.md)<br>
-[19-January-2019 - #41 Joint Meetup with Kubernetes & OpenShift + CloudNativeCon](./slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/README.md)
+| Meetup                                                                                                                                                                                                                                 | Slides |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [23-Nov-2019 - #49 Docker, Kubernetes & DevOps Tools + Docker Intermediate Workshop](./slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup)                                                                                         |        |
+| [21-September 2019 - #48 Docker, K8s, ML + Docker101 Workshop - Amazon](https://events.docker.com/events/details/docker-bangalore-presents-docker-k8s-iot-mldl-docker101-hands-on-workshop-for-beginners/#/)                           |        |
+| [7-Septemeber-2019 - #46 Docker Bangalore Joint Meetup with Cloud Native Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-cloud-native-group-of-bangalore/#/) |        |
+| [03rd August 2019 - #45 Docker, Kubernetes & IoT - WalmartLabs](./slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/readme.md)                                                                                                   |        |
+| [15th-June-2019 - #44 Dockercon 19 Recap & Announcements](./slides/15th-June-2019-Dockercon19-Recap/README.md)                                                                                                                         |        |
+| [25-April-2019 - #43 Docker Joint Meetup with OpenFaas @Microsoft Developer Group](./slides/2019-04-25-Joint-Meetup-OpenFaas-Microsoft-Developer-Group/README.md)                                                                      |        |
+| [30-March-2019 - #42 Docker 6th Birthday Celeberation Event](./slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/README.md)                                                                                                            |        |
+| [19-January-2019 - #41 Joint Meetup with Kubernetes & OpenShift + CloudNativeCon](./slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/README.md)                                                                                 |        |
 
 
 # Online Webinars
 
-[14-September-2019](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/) - [#47 Collabnix Online Webinar: Demystifying Container Networking](./slides/14th-Sep-2019-Collabnix-Online-Webinar-Demystifying-Container-Networking/README.md)<br>
-[21-November-2019](https://events.docker.com/accounts/dashboard/#/chapter-25/event-5093/manage) - [#48 Collabnix Online Webinar:Integrated Log Analytics and Monitoring of Servers using Docker Containers & Elastic Stack](https://www.slideshare.net/ajeetraina/collabnix-online-webinar-integrated-log-analytics-monitoring-using-docker-elastic-stack)
+| Meetup                                                                                                                                                                                                                                                                                                                                                     | Slides |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [14-September-2019](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/) - [#47 Collabnix Online Webinar: Demystifying Container Networking](./slides/14th-Sep-2019-Collabnix-Online-Webinar-Demystifying-Container-Networking/README.md)                                       |        |
+| [21-November-2019](https://events.docker.com/accounts/dashboard/#/chapter-25/event-5093/manage) - [#48 Collabnix Online Webinar:Integrated Log Analytics and Monitoring of Servers using Docker Containers & Elastic Stack](https://www.slideshare.net/ajeetraina/collabnix-online-webinar-integrated-log-analytics-monitoring-using-docker-elastic-stack) |        |
 
 
 # Docker Birthday Celebration - Blogs
 
-[Docker 10th Birthday Celebration](https://collabnix.com/reflecting-on-a-decade-of-innovation-celebrating-dockers-10th-birthday/)<br>
-[Docker 9th Birthday Celebration](https://collabnix.com/highlights-docker-9th-birthday-celebration-meetup/)<br>
-[Docker 8th Birthday Celebration](https://www.docker.com/blog/a-birthday-challenge-as-docker-turns-8/)<br>
-[Docker 7th Birthday Celebration](https://www.docker.com/blog/docker-turns-7/)<br>
-[Docker 6th Birthday Celebration](http://collabnix.com/docker-birthday-6-thank-you-docker-bangalore-community//)<br>
-[Docker 5th Birthday Celebration](http://collabnix.com/dockers-birthday-celebration-in-bangalore-the-fifth-kind/)<br>
-[Docker 4th Birthday Celebration](https://neependra.net/?p=2209)<br>
-[Docker 3rd Birthday Celebration](https://neependra.net/?p=1746)<br>
-
+| Meetup                                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------|
+| [Docker 10th Birthday Celebration](https://collabnix.com/reflecting-on-a-decade-of-innovation-celebrating-dockers-10th-birthday/) |
+| [Docker 9th Birthday Celebration](https://collabnix.com/highlights-docker-9th-birthday-celebration-meetup/)                       |
+| [Docker 8th Birthday Celebration](https://www.docker.com/blog/a-birthday-challenge-as-docker-turns-8/)                            |
+| [Docker 7th Birthday Celebration](https://www.docker.com/blog/docker-turns-7/)                                                    |
+| [Docker 6th Birthday Celebration](http://collabnix.com/docker-birthday-6-thank-you-docker-bangalore-community//)                  |
+| [Docker 5th Birthday Celebration](http://collabnix.com/dockers-birthday-celebration-in-bangalore-the-fifth-kind/)                 |
+| [Docker 4th Birthday Celebration](https://neependra.net/?p=2209)                                                                  |
+| [Docker 3rd Birthday Celebration](https://neependra.net/?p=1746)                                                                  |
 
 
 
