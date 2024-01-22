@@ -15,6 +15,12 @@
 
 Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker-Bangalore) repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
+## Year 2024
+| Meetup                                                                                                                                             | Slides                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [Jan 20 - Meetup #74 - Kubetools Day Bengaluru](https://www.meetup.com/docker-bangalore/events/298456363/)                             | [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/Jan20-kubetools-day-bengaluru/README.md)  |
+
+
 
 
 
