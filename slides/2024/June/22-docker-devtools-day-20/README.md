@@ -11,6 +11,6 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Workshop on Docker GenAI Stack| [Slides](https://genai-workshops-apac.netlify.app/) | [ - ]() |
-| Raghavendra | [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/2024/June/22-docker-devtools-day-20/Docker%20Developer%20Toolkits%20-%20Docker%20Devtools%20Day%202.0.pdf) | |
+| Workshop on Docker GenAI Stack by Ajeet Singh Raina| [Slides](https://genai-workshops-apac.netlify.app/) | [ - ]() |
+| Docker Developer Toolkit by Raghavendra | [Slides](https://github.com/collabnix/dockerbangalore/blob/master/slides/2024/June/22-docker-devtools-day-20/Docker%20Developer%20Toolkits%20-%20Docker%20Devtools%20Day%202.0.pdf) | |
 
