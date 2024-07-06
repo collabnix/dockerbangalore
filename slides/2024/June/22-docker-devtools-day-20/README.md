@@ -1,12 +1,10 @@
 ## Event Name: Docker DevTools Day 2.0 
 
-### Venue: Cashfree Payments
-
-### Date: 22nd June 
-
-### Time: 9:00 AM to 4:00 PM
-
-### Slides
+-  Venue: Cashfree Payments
+-  Date: 22nd June 
+-  Time: 9:00 AM to 4:00 PM
+-  Slides
+-  No.of attendees - 98
 
 
 | Topic        | Presentation          | Video  |
