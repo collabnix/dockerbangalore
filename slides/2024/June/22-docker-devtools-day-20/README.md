@@ -11,5 +11,5 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Talk-1| [Slides](link) | [ - ]() |
+| [Workshop on Docker GenAI Stack| [Slides](https://genai-workshops-apac.netlify.app/) | [ - ]() |
 
