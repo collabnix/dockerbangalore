@@ -18,6 +18,8 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 ## Year 2024
 | Meetup                                                                                                                                             | Slides                                                                                                                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [Oct 19 - Meetup #82 - Docker DevTools Day 4.0]() |  [Slides]() |
+| [Sep 21 - Meetup #81 - Kubetools Day 3.0](https://www.meetup.com/collabnix/events/302507128/?eventOrigin=group_events_list) | [Slides]() |
 | [Aug 24 - Meetup #80 - Docker DevTools Day 3.0](https://www.meetup.com/collabnix/events/301991994/) | [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/2024/June/22-docker-devtools-day-20) |
 | [June 22 - Meetup #79 - Docker DevTools Day 2.0 Workshop and Talks](https://www.meetup.com/collabnix/events/301110702/) |  [Sldies]() |
 | [May 18 - Meetup #78 - Kubetools Day 2.0 "Show-n-Tell"](https://www.meetup.com/collabnix/events/300163572/) | [Slides]() |
