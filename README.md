@@ -15,6 +15,11 @@
 
 Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker-Bangalore) repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
+## Year 2025
+| Meetup                                                                                                                                             | Slides                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [Jan 18 - Meetup #83 - Docker DevTools Day 5.0](https://www.meetup.com/es-ES/collabnix/events/304968647/) |  [Slides](./slides/2025/01/Testing_GenAI_apps_in_Go.pdf) |
+
 ## Year 2024
 | Meetup                                                                                                                                             | Slides                                                                                                                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
