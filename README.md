@@ -18,7 +18,7 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 ## Year 2025
 | Meetup                                                                                                                                             | Slides                                                                                                                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| [Jan 18 - Meetup #83 - Docker DevTools Day 5.0](https://www.meetup.com/es-ES/collabnix/events/304968647/) |  [Slides](./slides/2025/01/Testing_GenAI_apps_in_Go.pdf) |
+| [Jan 18 - Meetup #83 - Docker DevTools Day 5.0](https://www.meetup.com/es-ES/collabnix/events/304968647/) |  [Slides](./slides/2025/01/) |
 
 ## Year 2024
 | Meetup                                                                                                                                             | Slides                                                                                                                     |
