@@ -16,14 +16,23 @@
 Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker-Bangalore) repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
 ## Year 2025
+     
+## Upcoming Events                                                                                                                                           | Slides                                                                                                                     |
 | Meetup                                                                                                                                             | Slides                                                                                                                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| [Jan 18 - Meetup #83 - Docker DevTools Day 5.0](https://www.meetup.com/es-ES/collabnix/events/304968647/) |  [Slides](./slides/2025/01/) |
+| [Feb 1 - Meetup #86 - Cloud-Native DevTools Day with Cloudera Team](https://www.meetup.com/collabnix/events/305451079/?eventOrigin=group_upcoming_events) |  [Slides]() |
+| [Jan 24 - Meetup #85 - Cloud-Native Ai Day Singapore](https://www.meetup.com/collabnix/events/305451135/?eventOrigin=group_upcoming_events) | [Slides]() |
+
+
+| Meetup                                                                                                                                             | Slides                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [Jan 18 - Meetup #84 - Docker DevTools Day 5.0 with Nokia and Neo4j](https://www.meetup.com/es-ES/collabnix/events/304968647/) |  [Slides](./slides/2025/01/) |
 
 ## Year 2024
 | Meetup                                                                                                                                             | Slides                                                                                                                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| [Oct 19 - Meetup #82 - Docker DevTools Day 4.0]() |  [Slides]() |
+| [Nov 23 - Meetup #83 - All Things Cloud-Native](https://www.meetup.com/collabnix/events/304666506/?eventOrigin=group_events_list) | [Slides]()
+| [Oct 19 - Meetup #82 - Docker DevTools Day 4.0](https://www.meetup.com/collabnix/events/303616545/?eventOrigin=group_events_list) |  [Slides]() |
 | [Sep 21 - Meetup #81 - Kubetools Day 3.0](https://www.meetup.com/collabnix/events/302507128/?eventOrigin=group_events_list) | [Slides]() |
 | [Aug 24 - Meetup #80 - Docker DevTools Day 3.0](https://www.meetup.com/collabnix/events/301991994/) | [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/2024/June/22-docker-devtools-day-20) |
 | [June 22 - Meetup #79 - Docker DevTools Day 2.0 Workshop and Talks](https://www.meetup.com/collabnix/events/301110702/) |  [Sldies]() |
