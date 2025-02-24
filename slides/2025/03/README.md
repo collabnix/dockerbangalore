@@ -9,8 +9,7 @@
 | 2 | Tea Break | - | - |
 | 3 | Bringing LLMOps to Your Laptop: Emulating AWS Bedrock with LocalStack | Harsh Mishra (LocalStack) | - |
 | 4 | A Rise of Docker AI Agent in Docker Desktop | Ajeet S Raina (Docker), Raveendran RR(Blueprint Technologies) | - |
-| 5 | Lunch break | - | - |
-| 6 | LLMOps in Production: Deploy, Compare, and Optimize with Docker | Alagu Prakalya P, ASAPP | - |
-| 7 | LLM AI Security Framework | Shubhendu Shubham, Cognizant | - |
-| 8 | Managing LLM(s) at scale across an enterprise via AI Gateways | Turja Narayan Chaudhuri, Big4 | - |
+| 5 | LLMOps in Production: Deploy, Compare, and Optimize with Docker | Alagu Prakalya P, ASAPP | - |
+| 6 | LLM AI Security Framework | Shubhendu Shubham, Cognizant | - |
+| 7 | Managing LLM(s) at scale across an enterprise via AI Gateways | Turja Narayan Chaudhuri, Big4 | - |
 
