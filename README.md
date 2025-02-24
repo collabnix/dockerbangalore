@@ -21,6 +21,7 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 | Meetup | Slides |
 |--------|--------|
+| [Feb 22 - Meetup #87 - Cloud-Native LLMOps Day](https://www.meetup.com/collabnix/events/305749928/?eventOrigin=group_events_list) | [Links]() |
 | [Feb 1 - Meetup #86 - Cloud-Native DevTools Day with Cloudera Team](https://www.meetup.com/collabnix/events/305451079/?eventOrigin=group_upcoming_events) |  [Links]() |
 | [Jan 24 - Meetup #85 - Cloud-Native Ai Day Singapore](https://www.meetup.com/collabnix/events/305451135/?eventOrigin=group_upcoming_events) | [Links]() |
 
