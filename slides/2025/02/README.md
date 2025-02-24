@@ -1,2 +1,2 @@
-## Event: Cloud-Native LLMOps 
+## Event: Cloud-Native DevOps Day at Cloudera
 
