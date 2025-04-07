@@ -21,6 +21,7 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 | Meetup | Slides |
 |--------|--------|
+| [April 5 - Meetup #88 - AI Inference Day with NVIDIA](https://www.meetup.com/collabnix/events/306235173/) | [Links]() |
 | [Feb 22 - Meetup #87 - Cloud-Native LLMOps Day](https://www.meetup.com/collabnix/events/305749928/?eventOrigin=group_events_list) | [Links](https://github.com/collabnix/dockerbangalore/blob/master/slides/2025/03/README.md) |
 | [Feb 1 - Meetup #86 - Cloud-Native DevTools Day with Cloudera Team](https://www.meetup.com/collabnix/events/305451079/?eventOrigin=group_upcoming_events) |  [Links](https://github.com/collabnix/dockerbangalore/blob/master/slides/2025/02/README.md) |
 | [Jan 24 - Meetup #85 - Cloud-Native Ai Day Singapore](https://www.meetup.com/collabnix/events/305451135/?eventOrigin=group_upcoming_events) | [Links]() |
