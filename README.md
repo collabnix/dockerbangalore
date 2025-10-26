@@ -15,9 +15,18 @@
 
 Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker-Bangalore) repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
+
+
+
 ## Year 2025
-     
+
 ### Upcoming Events
+
+| Meetup | Slides |
+|--------|--------|
+| [Nov 8 - Meetup ##100 - AI in the Cloud: Harnessing Containers & Data at Scale](https://www.meetup.com/collabnix/events/311402347/?eventOrigin=group_upcoming_events&_gl=1*flsttq*_up*MQ..*_ga*OTExMDE3MzI1LjE3NjE0ODk2NTA.*_ga_NP82XMKW0P*czE3NjE0ODk2NTEkbzEkZzEkdDE3NjE0ODk2NTEkajYwJGwwJGgw) | [Links]() |
+
+### Past Events
 
 | Meetup | Slides |
 |--------|--------|
