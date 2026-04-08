@@ -18,13 +18,13 @@ Welcome to the [Docker Bangalore Meetup Community](https://www.meetup.com/Docker
 
 ## Year 2026
 
-| Meetup | Slides |
-|--------|--------|
-| April 25 | [Getting Started with Nemotron 3 Super - Hands-On Session](https://www.meetup.com/collabnix/events/313832256/?eventOrigin=group_upcoming_events)|
-| April 18 | [Docker for AI Day Bengaluru](https://www.meetup.com/collabnix/events/313460653) |
-| March 21 | [Collabnix Community Meet x NVIDIA GTC Watch Party (Virtual Event)](https://www.meetup.com/collabnix/events/313504728/?eventOrigin=group_events_list)|
-| Feb 7 | [Cloud Native & AI Day: “Beyond ChatBots — Let’s talk about Agentic Stack."](https://www.meetup.com/collabnix/events/313001410/?eventOrigin=group_events_list) |
-| Jan 13 | [The Third Wave: Agentic Scale](https://www.meetup.com/collabnix/events/312488734/?eventOrigin=group_events_list) |
+| Date | Meetup | Slides |
+|--------|--------|--------|
+| April 25 | [Getting Started with Nemotron 3 Super - Hands-On Session](https://www.meetup.com/collabnix/events/313832256/? eventOrigin=group_upcoming_events)||
+| April 18 | [Docker for AI Day Bengaluru](https://www.meetup.com/collabnix/events/313460653) | |
+| March 21 | [Collabnix Community Meet x NVIDIA GTC Watch Party (Virtual Event)](https://www.meetup.com/collabnix/events/313504728/?eventOrigin=group_events_list)| |
+| Feb 7 | [Cloud Native & AI Day: “Beyond ChatBots — Let’s talk about Agentic Stack."](https://www.meetup.com/collabnix/events/313001410/?eventOrigin=group_events_list) | |
+| Jan 13 | [The Third Wave: Agentic Scale](https://www.meetup.com/collabnix/events/312488734/?eventOrigin=group_events_list) | |
 
 ## Year 2025
 
